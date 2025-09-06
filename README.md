@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-I am a university student and MENSA member with a strong foundation in mathematics, passionate about leveraging AI and data-driven insights in finance. My goal is to pursue a career in investment banking and private equity while continuously learning and building projects that merge finance and technology. 
+I am a university student and MENSA member with a strong foundation in mathematics. Also passionate about leveraging AI and data-driven insights in fianance. My goal is to pursue a career in investment banking and private equity while continuously learning and building projects that merge finance and technology. 
 
 ---
 
@@ -23,7 +23,7 @@ I am a university student and MENSA member with a strong foundation in mathemati
 - **[Finance Dashboard](https://github.com/yourusername/project2)** – Interactive dashboards visualizing financial data and metrics.  
 - **[Math Toolbox](https://github.com/yourusername/project3)** – Implementations of applied mathematics concepts, including difference equations.  
 
-*(Replace the links above with your actual GitHub project links when available)*
+
 
 ---
 
