@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-I am a university student with a strong foundation in mathematics, passionate about leveraging AI and data-driven insights in finance. My goal is to pursue a career in investment banking and private equity while continuously learning and building projects that merge finance and technology.
+I am a university student and MENSA member with a strong foundation in mathematics, passionate about leveraging AI and data-driven insights in finance. My goal is to pursue a career in investment banking and private equity while continuously learning and building projects that merge finance and technology. 
 
 ---
 
